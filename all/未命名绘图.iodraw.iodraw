@@ -40,8 +40,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-13" value="电磁阀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-14" value="电磁阀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="480" width="50" height="60" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-14" value="加热板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="470" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
