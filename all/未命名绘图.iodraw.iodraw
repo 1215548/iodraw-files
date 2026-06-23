@@ -94,6 +94,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-29" value="BATTERY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="200" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-30" value="BATTERY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="160" width="200" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
