@@ -238,8 +238,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-76" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;此处为接口，需对插相应的按键板&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-78" value="备空开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="380" width="63" height="150" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-78" value="机械温控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="370" width="63" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
