@@ -152,7 +152,10 @@
           <mxGeometry x="1080" y="490" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-48" value="启动信号" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="640" y="450" width="50" height="40" as="geometry" />
+          <mxGeometry x="1145" y="355" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-49" value="启动信号" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="500" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
