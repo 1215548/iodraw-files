@@ -10,8 +10,11 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-3" value="1#时继" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-4" value="1#时继" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-4" value="2#时继" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="280" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-5" value="2#时继" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
