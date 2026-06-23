@@ -169,6 +169,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-53" value="启动键" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="1380" y="500" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-55" value="停止键" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="500" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
