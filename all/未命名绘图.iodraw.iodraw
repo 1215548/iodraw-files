@@ -139,7 +139,7 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-43" value="故" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1260" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-44" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-44" value="启x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-45" value="停" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
