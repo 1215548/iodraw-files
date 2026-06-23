@@ -187,6 +187,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-60" value="电磁阀测试键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="530" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-61" value="电磁阀测试键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
