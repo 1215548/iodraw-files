@@ -241,8 +241,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-78" value="机械温控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="370" width="63" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-79" value="对外状态信号正常情况下都是24V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1010" width="340" height="30" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-79" value="对外状态信号正常情况下都是24V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1070" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
