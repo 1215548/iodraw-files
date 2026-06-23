@@ -208,8 +208,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-67" value="阀" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="300" y="555" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-68" value="阀" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="565" width="30" height="30" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-68" value="加热灯" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="555" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
