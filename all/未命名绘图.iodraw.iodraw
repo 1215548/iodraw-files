@@ -116,7 +116,7 @@
           <mxGeometry x="630" y="585" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-36" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="370" width="450" height="150" as="geometry" />
+          <mxGeometry x="1060" y="370" width="610" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-37" value="L+N+*PE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="370" width="63" height="150" as="geometry" />
@@ -142,10 +142,10 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-44" value="启x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-45" value="停" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-45" value="停x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-46" value="模" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-46" value="模x" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-47" value="供电状态" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#99FF33;" vertex="1" parent="1">
