@@ -190,7 +190,7 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-61" value="泵测试键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-62" value="泵测试键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-62" value="启动解耦键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="610" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
