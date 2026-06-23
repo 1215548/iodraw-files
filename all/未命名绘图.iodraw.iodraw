@@ -127,17 +127,20 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-39" value="备空开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="370" width="63" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-40" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-40" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-41" value="备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-41" value="备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-42" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-42" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-43" value="故" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-43" value="故" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-44" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="720" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
