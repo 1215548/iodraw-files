@@ -31,8 +31,11 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-10" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-11" value="电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-11" value="泵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-12" value="泵" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
