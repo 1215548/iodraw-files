@@ -49,8 +49,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-16" value="压力开关" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-17" value="电机" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFCC99;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="50" height="60" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-17" value="供电24V" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
