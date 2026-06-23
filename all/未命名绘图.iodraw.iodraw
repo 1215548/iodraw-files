@@ -78,14 +78,14 @@
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="800" as="sourcePoint" />
+            <mxPoint x="760" y="1100" as="sourcePoint" />
             <mxPoint x="760" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-25" value="PANEL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-27" value="LIQUID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399" y="800" width="241" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-28" value="AIR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
