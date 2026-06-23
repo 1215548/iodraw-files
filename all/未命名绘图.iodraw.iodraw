@@ -127,16 +127,16 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-39" value="备空开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="370" width="63" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-40" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-40" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="880" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-41" value="备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-41" value="备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1010" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-42" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-42" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1130" y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-43" value="故" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-43" value="故" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1260" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-44" value="启" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-45" value="停" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-46" value="主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-46" value="模" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="850" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
