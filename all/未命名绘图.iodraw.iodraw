@@ -61,6 +61,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-19" value="供电状态" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#745858;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
