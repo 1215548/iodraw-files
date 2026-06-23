@@ -116,7 +116,7 @@
           <mxGeometry x="630" y="585" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-36" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="370" width="610" height="150" as="geometry" />
+          <mxGeometry x="1060" y="370" width="580" height="150" as="geometry" />
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-37" value="L+N+*PE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="370" width="63" height="150" as="geometry" />
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="dHkD7c25PGQkDVRhpWFK-52" value="液、压信号" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="1320" y="500" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-53" value="液、压信号" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="510" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
