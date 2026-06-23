@@ -43,6 +43,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-14" value="加热板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="470" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-15" value="液位计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="470" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
