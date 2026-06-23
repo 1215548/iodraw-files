@@ -91,6 +91,9 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-28" value="AIR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="140" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
