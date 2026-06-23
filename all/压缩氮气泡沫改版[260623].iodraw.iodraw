@@ -256,8 +256,8 @@
         <mxCell id="dHkD7c25PGQkDVRhpWFK-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="20" y="970" width="720" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="dHkD7c25PGQkDVRhpWFK-84" value="2F电路板高度受时继的限制，左图为2款时继" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="990" width="260" height="30" as="geometry" />
+        <mxCell id="dHkD7c25PGQkDVRhpWFK-84" value="2F电路板高度由时继决定，左图为两款时继" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="984" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
